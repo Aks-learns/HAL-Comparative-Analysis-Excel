@@ -27,9 +27,8 @@ accounting frameworks (Ind AS, IFRS, US GAAP), so the comparison is deliberately
 
 | File | Description |
 |------|-------------|
-| `HAL_Comparative_Financial_Analysis.docx` / `.pdf` | 30-page benchmarking report |
-| `HAL_Financial_Analysis_Workbook.xlsx` | Interactive financial model (see below) |
-| `/charts` | Figures used in the report |
+| `HAL_Comparative_Financial_Analysis.pdf` | 30-page benchmarking report |
+| `HAL_Financial_Analysis._Workbook.xlsx` | Interactive financial model (see below) |
 | `README.md` | This file |
 
 ## The Excel model
